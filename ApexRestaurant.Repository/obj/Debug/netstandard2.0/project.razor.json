@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/abhishek/Documents/ApexRestaurant-master 2/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
